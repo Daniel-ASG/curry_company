@@ -32,5 +32,5 @@ st.markdown(
         - Weekly restaurant growth indicators.
     ### Ask for help
     - Data Science Team on Discord
-        - @daniel_asgomes
+        - @daniel_asg
     ''')
